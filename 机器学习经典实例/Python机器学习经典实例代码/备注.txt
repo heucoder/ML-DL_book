@@ -1,0 +1,10 @@
+书籍中多次提到的数据下载地址 
+https://archive.ics.uci.edu/ml/databases/xxx/
+改为
+https://archive.ics.uci.edu/ml/machine-learning-databases/xxx/
+
+比如用来房屋数据估价的数据
+https://archive.ics.uci.edu/ml/databases/housing/
+改为
+https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+
