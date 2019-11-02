@@ -65,7 +65,7 @@ Keras==2.1.6
 
 ##### Image manipulation
 imageio==2.3.0
-Pillow==5.1.0
+Pillow==6.2.0
 scikit-image==0.13.1
 
 
