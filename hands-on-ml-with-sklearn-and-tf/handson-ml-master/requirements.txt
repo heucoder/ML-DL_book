@@ -45,7 +45,7 @@ scikit-learn==0.19.1
 # you need a GPU card with CUDA Compute Capability 3.0 or higher support, and
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
-tensorflow==1.8.0
+tensorflow==2.3.1
 #tensorflow-gpu==1.8.0
 
 # Forcing bleach to 1.5 to avoid version incompatibility when installing
