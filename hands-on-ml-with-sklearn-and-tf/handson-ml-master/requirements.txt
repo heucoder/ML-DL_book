@@ -72,7 +72,7 @@ scikit-image==0.13.1
 ##### Extra packages (optional)
 
 # Nice utility to diff Jupyter Notebooks.
-nbdime==0.4.1
+nbdime==1.1.1
 
 # May be useful with Pandas for complex "where" clauses (e.g., Pandas
 # tutorial).
